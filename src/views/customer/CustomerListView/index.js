@@ -32,6 +32,7 @@ const CustomerListView = () => {
         <Box mt={3}>
           <Results customers={customers} />
         </Box>
+          <Results customers={customers} />
       </Container>
     </Page>
   );
